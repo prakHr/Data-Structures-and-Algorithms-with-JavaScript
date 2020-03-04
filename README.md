@@ -24,7 +24,7 @@ Learn to code respective basic data structures taught at university level.
 
 Chapters | Topic 
 --- | --- 
-1 | Linear Regression 
+1 | Programming Environment
 2 | Arrays 
 3 | Lists 
 4 | Stacks 
